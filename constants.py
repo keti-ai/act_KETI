@@ -1,7 +1,7 @@
 import pathlib
 
 ### Task parameters
-DATA_DIR = './data'
+DATA_DIR = '/media/syh/hdd/data/aloha_dataset'
 SIM_TASK_CONFIGS = {
     'sim_transfer_cube_scripted':{
         'dataset_dir': DATA_DIR + '/sim_transfer_cube_scripted',
